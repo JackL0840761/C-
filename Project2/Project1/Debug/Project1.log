@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(93,3): error C2065: 'returns': undeclared identifier
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(93,11): error C2146: syntax error: missing ';' before identifier 's'
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(100,8): error C3867: 'Rectangle::getLength': non-standard syntax; use '&' to create a pointer to member
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(100,8): error C2296: '-': illegal, left operand has type 'double (__thiscall Rectangle::* )(void)'
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(100,72): error C3867: 'Rectangle::getWidth': non-standard syntax; use '&' to create a pointer to member
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(100,72): error C2296: '-': illegal, left operand has type 'double (__thiscall Rectangle::* )(void)'
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Source.cpp(6,1): error C2601: 'main': local function definitions are illegal
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(97): message : this line contains a '{' which has not yet been matched
+C:\Users\jacks\Desktop\vs item\Project2\Project1\Rectangle.h(97): fatal error C1075: '{': no matching token found

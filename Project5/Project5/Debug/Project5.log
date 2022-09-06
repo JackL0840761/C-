@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Bag.h(56,7): error C3861: 'isempty': identifier not found
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Bag.h(56,14): message : 'isempty': function declaration must be available as none of the arguments depend on a template parameter
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(10,98): error C2059: syntax error: ';'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,2): error C2059: syntax error: 'for'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,16): error C2143: syntax error: missing ')' before ';'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,26): error C2143: syntax error: missing ';' before '++'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,25): error C2086: 'int i': redefinition
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11): message : see declaration of 'i'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,28): error C2059: syntax error: ')'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(11,30): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(15,6): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(15,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(15,14): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(15,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(15,7): error C2146: syntax error: missing ';' before identifier 'display'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(17,2): error C2059: syntax error: 'if'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(17,21): error C2143: syntax error: missing ';' before '{'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(17,21): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(20,2): error C2059: syntax error: 'else'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(22,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(22,2): error C2365: 'system': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1218): message : see declaration of 'system'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(23,2): error C2059: syntax error: 'return'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(24,1): error C2059: syntax error: '}'
+C:\Users\jacks\Desktop\vs item\Project5\Project5\Source.cpp(24,1): error C2143: syntax error: missing ';' before '}'
